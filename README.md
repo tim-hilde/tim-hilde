@@ -39,6 +39,9 @@ I’m seeking a position in Machine Learning where I can leverage my skills to d
   - EDA on job categories, roles, part/full time, remote and location using [Geopandas](https://geopandas.org) and data by [Regionalatlas](https://regionalatlas.statistikportal.de/#) and [opendatasoft](https://public.opendatasoft.com/explore/dataset/georef-germany-postleitzahl)
   - Analysis of salaries
   - currently developing an NLP model to predict salary ranges based on job posting
+- [Olist Company Revue Project](https://www.github.com/tim-hilde/olist)
+  - Analyzed data from the Olist reseller platform to identify key business opportunities
+  - Implemented strategic recommendations, resulting in a threefold increase in company revenue
 - [Exploring Bitcoin and Cryptocurrencies](https://github.com/tim-hilde/bitcoin_market)
   - comparing bitcoin to the rest of the cryptocurrencies
   - volatility in cryptocurrencies
