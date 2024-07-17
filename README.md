@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center"> Ethicist of Technology turned into data scientist and and ethical ML engineer </h3>
+<h3 align="center"> Ethicist of Technology turned into data scientist</h3>
 
 
 - 🌱 I'm currently learning more **deep learning and MLOps**
