@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center"> Ethicist of Technology turned into data scientist</h3>
+<h3 align="center"> Machine Learning Engineer | Ethicist of Technology</h3>
 
 
-- 🌱 I'm currently learning more **deep learning and MLOps**
-- 🌱 Seeking opportunities to drive **innovative, responsible ML solutions**
+Passionate Machine Learning Engineer with a strong focus on NLP, Retrieval-Augmented Generation (RAG), and scalable AI solutions. Experienced in developing and deploying cutting-edge ML models, optimizing chatbot systems, and leveraging cloud-based MLOps for seamless integration. Skilled in translating complex AI concepts into intuitive, user-friendly applications. 
 
+Committed to ethical and responsible AI development, with a keen interest in knowledge sharing and continuous learning in collaborative, innovative environments.
+
+Currently working @[TEQYARD](https://www.teqyard.de)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
